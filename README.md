@@ -1,5 +1,5 @@
 # E_info_illegal
 
-[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+[Clique ici pour rejoindre le Discord](https://discord.gg/fivemfrance)
 -
-<p>0.00 MS - ESX / Standalone - Ez Config by Enøs#0001</p> 
+<p>0.00 MS - ESX / Standalone 
